@@ -1,0 +1,6 @@
+{
+  "owner_ids": [123456789012345678],
+  "notes": "please change ^ to a comma separated list of discord user ids that can access the commands",
+  "example_of_owner_ids": [123456789012345678, 876543210987654321],
+  "initial_extensions": ["kill_all"]
+}
