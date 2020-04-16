@@ -4,7 +4,7 @@ from discord.ext import commands
 
 from checks import owner
 
-with open("config.yaml") as f:
+with open("config.json") as f:
     config = json.load(f)
 
 
