@@ -18,7 +18,7 @@ def load_exts(bot):
 
 class yeeter(commands.AutoShardedBot):
     """
-    the supreme `E1337` bot
+    the supreme fucker
     """
 
     def __init__(self, command_prefix, **options):
