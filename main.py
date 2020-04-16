@@ -60,4 +60,5 @@ bot.default_prefix = "-"
 bot.add_check(owner)
 load_exts(bot=bot)
 if __name__ == "__main__":
+    bot.remove_command("help")
     bot.run(bot.config["token"])
